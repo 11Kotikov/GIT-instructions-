@@ -46,4 +46,4 @@
 
 * *git merge < merged brunch >* - **Merges changes from the transferred branch into the current one**
 
-> *For more information, see the* [Git documentation](https://git-scm.com/doc)
+> *For more information, see the* [git documentation](https://git-scm.com/doc)
