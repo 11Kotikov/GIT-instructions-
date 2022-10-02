@@ -1,5 +1,7 @@
 # Instructions for working with GIT
 
+![](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg)
+
 >## Basic GIT commands:
 
 
