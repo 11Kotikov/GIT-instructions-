@@ -29,7 +29,7 @@
 
 * *git checkout < Hash number of commitment or master >* - **Switching between different commitments**
 
-## 3. *Auxiliary programs:*
+## 3. *Auxiliary programs:* 
 
 * *git branch -d < branch name >*  **Delete branch by name**
 
