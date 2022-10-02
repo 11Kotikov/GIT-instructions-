@@ -7,26 +7,34 @@
 
 ## User registration:
 
-*git config --global user.email example@example.com* - **input email**
+1. *git config --* - **git config --global user.name «Your name»**
 
-*git config --* - **git config --global user.name «Your name»**
+2. *git config --global user.email example@example.com* - **input email**
 
 ## *Other commands:*
 
-*git --version* - **Git System Version**
+* *git --version* - **Git System Version**
 
-*git init* - **Initialization of local repositorium**
+* *git init* - **Initialization of local repositorium**
 
-*git status* - **Output of the system status at the moment**
+* *git status* - **Output of the system status at the moment**
 
-*git add* - **Add file version**
+* *git add* - **Add file version**
 
-*git commit -m* **Add file to commit**
+* *git commit -m* **Add file to commit**
 
-*git diff* - **view changes in two branches**
+* *git diff* - **view changes in two branches**
 
-*git log* - **Output commitments in chronological order**
+* *git log* - **Output commitments in chronological order**
 
-*git checkout <Hash number of commitment or master>* - **Switching between different commitments**
+* *git checkout < Hash number of commitment or master >* - **Switching between different commitments**
 
-*git status-> git add... -> git status -> git commit -m "..."* **Commands sequence**
+## *Commands sequence:*
+
+*git status-> git add... -> git status -> git commit -m "..."* 
+
+## *Auxiliary programs:*
+
+* *git branch -d < branch name >*  **Delete branch by name**
+
+* *git help* **Tips git commands**
