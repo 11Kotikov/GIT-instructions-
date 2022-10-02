@@ -35,11 +35,15 @@
 
 * *git help* **Tips git commands**
 
-## *Commands sequence:*
+## <span style="color:green"> *Recommended sequence of commands:* </span>
 
-*git status-> git add... -> git status -> git commit -m "..."* 
+|First   |Second   |Third|Fouth|
+|----------|-----------|---------|------------|
+|git status|git add    |git status  |git commit -m
 
->## <span style="color:red"> *Unrecommended commands for novice/begginer:*</span>
+Example:
+
+>## <span style="color:orange"> *Unrecommended commands for novice/begginer:*</span>
 * *git pull* - **Adds any commitments to the branch automatically**
 
 * *git fetch* - **Collects all commitments from the target branch that are not in the current branch and stores them in the local repository (it doesn't add to master branch)**
