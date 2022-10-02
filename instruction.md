@@ -5,13 +5,13 @@
 >## Basic GIT commands:
 
 
-## User registration:
+## 1. *User registration:*
 
 1. *git config --* - **git config --global user.name «Your name»**
 
 2. *git config --global user.email example@example.com* - **input email**
 
-## *Other commands:*
+## 2. *Other commands:*
 
 * *git --version* - **Git System Version**
 
@@ -29,12 +29,14 @@
 
 * *git checkout < Hash number of commitment or master >* - **Switching between different commitments**
 
-## *Commands sequence:*
-
-*git status-> git add... -> git status -> git commit -m "..."* 
-
-## *Auxiliary programs:*
+## 3. *Auxiliary programs:*
 
 * *git branch -d < branch name >*  **Delete branch by name**
 
 * *git help* **Tips git commands**
+
+## *Commands sequence:*
+
+*git status-> git add... -> git status -> git commit -m "..."* 
+
+>## *Unrecommended commands for novice/begginer:*
