@@ -9,6 +9,8 @@
 
 *git config --* - **git config --global user.name «Your name»**
 
+## *Other commands:*
+
 *git --version* - **Git System Version**
 
 *git init* - **Initialization of local repositorium**
@@ -19,10 +21,10 @@
 
 *git commit -m* **Add file to commit**
 
-*git diff* - **
+*git diff* - **view changes in two branches**
 
-*git log* - **Output commitments by timechange**
+*git log* - **Output commitments in chronological order**
 
-*git checkout <Хэш-номер коммита или master>* - **Переключение между различными коммитами**
+*git checkout <Hash number of commitment or master>* - **Switching between different commitments**
 
-*git status-> git add... -> git status -> git commit -m "..."* **Последовательность команд**
+*git status-> git add... -> git status -> git commit -m "..."* **Commands sequence**
