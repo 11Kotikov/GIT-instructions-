@@ -33,7 +33,7 @@
 
 * *git branch -d < branch name >*  **Delete branch by name**
 
-* *git help* **Tips git commands**
+* *git help* **git commands tips**
 
 ## <span style="color:green"> *Recommended sequence of commands:* </span>
 
