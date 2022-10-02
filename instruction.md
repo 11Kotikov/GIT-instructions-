@@ -39,4 +39,11 @@
 
 *git status-> git add... -> git status -> git commit -m "..."* 
 
->## *Unrecommended commands for novice/begginer:*
+>## <span style="color:red"> *Unrecommended commands for novice/begginer:*</span>
+* *git pull* - **Adds any commitments to the branch automatically**
+
+* *git fetch* - **Collects all commitments from the target branch that are not in the current branch and stores them in the local repository (it doesn't add to master branch)**
+
+* *git merge < merged brunch >* - **Merges changes from the transferred branch into the current one**
+
+> *For more information, see the* [Git documentation](https://git-scm.com/doc)
