@@ -1,12 +1,15 @@
 # Instructions for working with GIT
 
-## Basic GIT commands
+>## Basic GIT commands:
 
-*git --version* - **Git System Version**
+
+## User registration:
 
 *git config --global user.email example@example.com* - **input email**
 
 *git config --* - **git config --global user.name «Your name»**
+
+*git --version* - **Git System Version**
 
 *git init* - **Initialization of local repositorium**
 
@@ -21,3 +24,5 @@
 *git log* - **Output commitments by timechange**
 
 *git checkout <Хэш-номер коммита или master>* - **Переключение между различными коммитами**
+
+*git status-> git add... -> git status -> git commit -m "..."* **Последовательность команд**
