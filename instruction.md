@@ -1,17 +1,17 @@
-# Instructions for working with GIT
+# Инструкции по работе с GIT
 
 ![](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg)
 
->## Basic GIT commands:
+>## GIT: Базовые команды
 
 
-## 1. *User registration:*
+## 1. *Регистрация пользователя:*
 
 1. *git config --* - **git config --global user.name «Your name»**
 
 2. *git config --global user.email example@example.com* - **Введите e-mail**
 
-## 2. *Other commands:*
+## 2. *Другие команды:*
 
 * *git --version* - **Версия Git**
 
@@ -29,7 +29,7 @@
 
 * *git checkout <Хэш номер коммита или название_ветки>* - **Переключает между различными зафиксированными версиями или ветками файла**
 
-## 3. *Auxiliary programs:* 
+## 3. *Вспомогательные команды:* 
 
 * *git branch -d < branch name >*  **Удаляет ветку по имени**
 
@@ -48,7 +48,7 @@
 
 * *git fetch* - **Собирает все коммиты с целеврой ветки которые не находятся в текущей и записывает их в локальный репо (не добавляет в ветку master)**
 
-* *git merge < merged brunch >* - **Сливает изменения из "сливаемой ветки" в текущую**
+* *git merge < merged branch >* - **Merges changes from the transferred branch into the current one**
 
 > *Воспользуйтесь для получения доп. информации* [документацией по GIT](https://git-scm.com/doc)
 
