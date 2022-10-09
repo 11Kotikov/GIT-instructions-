@@ -48,6 +48,6 @@
 
 * *git fetch* - **Collects all commitments from the target branch that are not in the current branch and stores them in the local repository (it doesn't add to master branch)**
 
-* *git merge < merged brunch >* - **Merges changes from the transferred branch into the current one**
+* *git merge < merged branch >* - **Merges changes from the transferred branch into the current one**
 
 > *For more information, see the* [git documentation](https://git-scm.com/doc)
