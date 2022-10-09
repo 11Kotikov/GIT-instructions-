@@ -1,17 +1,17 @@
-# Instructions for working with GIT
+# Инструкции по работе с GIT
 
 ![](https://fuzeservers.ru/wp-content/uploads/3/0/c/30c29ce4cc08523ecc6e1f205bc207d0.jpeg)
 
->## Basic GIT commands:
+>## GIT: Базовые команды
 
 
-## 1. *User registration:*
+## 1. *Регистрация пользователя:*
 
 1. *git config --* - **git config --global user.name «Your name»**
 
 2. *git config --global user.email example@example.com* - **input email**
 
-## 2. *Other commands:*
+## 2. *Другие команды:*
 
 * *git --version* - **Git System Version**
 
@@ -29,7 +29,7 @@
 
 * *git checkout < Hash number of commitment or master >* - **Switching between different commitments**
 
-## 3. *Auxiliary programs:* 
+## 3. *Вспомогательные команды:* 
 
 * *git branch -d < branch name >*  **Delete branch by name**
 
