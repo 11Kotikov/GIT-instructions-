@@ -48,7 +48,7 @@
 
 * *git fetch* - **Собирает все коммиты с целеврой ветки которые не находятся в текущей и записывает их в локальный репо (не добавляет в ветку master)**
 
-* *git merge < merged branch >* - **Merges changes from the transferred branch into the current one**
+* *git merge <merged brunch>* - **Сливает изменения из "сливаемой ветки" в текущую ветку**
 
 > *Воспользуйтесь для получения доп. информации* [документацией по GIT](https://git-scm.com/doc)
 
