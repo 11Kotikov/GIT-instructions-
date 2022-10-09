@@ -9,31 +9,31 @@
 
 1. *git config --* - **git config --global user.name «Your name»**
 
-2. *git config --global user.email example@example.com* - **input email**
+2. *git config --global user.email example@example.com* - **Введите e-mail**
 
 ## 2. *Other commands:*
 
-* *git --version* - **Git System Version**
+* *git --version* - **Версия Git**
 
-* *git init* - **Initialization of local repositorium**
+* *git init* - **создание локального репозитория**
 
-* *git status* - **Output of the system status at the moment**
+* *git status* - **вывод статуса системы на данный момент**
 
-* *git add* - **Add file version**
+* *git add* - **Добавляет версионность файлу**
 
-* *git commit -m* **Add file to commit**
+* *git commit -m* **Фиксирует версию файла (создаёт коммит)**
 
-* *git diff* - **view changes in two branches**
+* *git diff* - **просмотр изменений в двух последних ветках**
 
-* *git log* - **Output commitments in chronological order**
+* *git log* - **Вывод версий в хронологическом порядке**
 
-* *git checkout < Hash number of commitment or master >* - **Switching between different commitments**
+* *git checkout <Хэш номер коммита или название_ветки>* - **Переключает между различными зафиксированными версиями или ветками файла**
 
 ## 3. *Auxiliary programs:* 
 
-* *git branch -d < branch name >*  **Delete branch by name**
+* *git branch -d < branch name >*  **Удаляет ветку по имени**
 
-* *git help* **git commands tips**
+* *git help* **список различных git команд**
 
 ## <span style="color:green"> *Recommended sequence of commands:* </span>
 
@@ -44,11 +44,11 @@
 >![e.g.:](https://ie.wampi.ru/2022/10/02/ss-git-status.jpg "Example")
 
 ## <span style="color:orange"> *Unrecommended commands for novice/begginer:*</span>
-* *git pull* - **Adds any commitments to the branch automatically**
+* *git pull* - **Стягивает фиксацию с репозиториев**
 
-* *git fetch* - **Collects all commitments from the target branch that are not in the current branch and stores them in the local repository (it doesn't add to master branch)**
+* *git fetch* - **Собирает все коммиты с целеврой ветки которые не находятся в текущей и записывает их в локальный репо (не добавляет в ветку master)**
 
-* *git merge < merged brunch >* - **Merges changes from the transferred branch into the current one**
+* *git merge < merged brunch >* - **Сливает изменения из "сливаемой ветки" в текущую**
 
 > *Воспользуйтесь для получения доп. информации* [документацией по GIT](https://git-scm.com/doc)
 
