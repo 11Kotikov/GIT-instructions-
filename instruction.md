@@ -37,7 +37,7 @@
 
 ## <span style="color:green"> *Recommended sequence of commands:* </span>
 
-|First   |Second   |Third|Fouth|
+|Первая   |Вторая   |Третья|Четвёртая|
 |----------|-----------|---------|------------|
 |git status|git add    |git status  |git commit -m
 
