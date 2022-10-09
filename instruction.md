@@ -50,4 +50,6 @@
 
 * *git merge < merged brunch >* - **Merges changes from the transferred branch into the current one**
 
-> *For more information, see the* [git documentation](https://git-scm.com/doc)
+> *Воспользуйтесь для получения доп. информации* [документацией по GIT](https://git-scm.com/doc)
+
+>*Для тренировки и обучению по GIT используйте* [онлайн-тренажёр](https://learngitbranching.js.org/)
